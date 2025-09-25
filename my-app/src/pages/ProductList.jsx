@@ -126,7 +126,7 @@ export default function ProductList() {
               id="sort"
               value={sortBy}
               onChange={(e) => handleSortChange(e.target.value)}
-              className="px-3 py-1 border bg-gray-800 text-gray-400 border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent "
+              className="px-3 py-1 border  bg-gray-800 text-gray-400 border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent "
             >
               <option value="">Default</option>
               <optgroup label="Price">
