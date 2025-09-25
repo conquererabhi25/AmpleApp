@@ -44,9 +44,8 @@ Before running this project, make sure you have:
 
 4. **Run the development server**
    ```bash
-   npm start
-   # or
-   yarn start
+   npm run dev
+   
    ```
 
 5. **Open your browser**
